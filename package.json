@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "webpack": "webpack --progress --colors",
+    "dev": "webpack-dev-server --progress --colors",
+    "start": "npm run dev"
+  }
+}
